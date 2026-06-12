@@ -1,0 +1,6 @@
+{
+  "name": "LLM Evaluation & Red-Teaming Platform",
+  "description": "An automated evaluation framework for LLMs testing adversarial prompts (hallucination, jailbreaks, bias, factual errors) with custom scoring and prompt hardening comparison.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
